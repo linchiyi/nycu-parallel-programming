@@ -1,5 +1,6 @@
 # 平行程式設計
-整理課程中完成的 SIMD、多執行緒、OpenMP、MPI、CUDA 與 OpenCL 作業。
+
+本 repository 整理課程中完成的 SIMD、多執行緒、OpenMP、MPI、CUDA 與 OpenCL 作業，以及專案提案、期末報告與 HackMD 紀錄。部分作業依賴課程提供的 starter code、標頭檔或測試框架，因此不保證可以脫離課程環境直接編譯。
 
 ## 作業總覽
 
@@ -19,3 +20,10 @@
 - 使用 block、tile、local memory 與 memory layout 降低記憶體存取成本。
 - 以執行時間、正確性與可擴充性作為實驗觀察重點。
 
+## 報告與連結
+
+- [專案提案報告](./報告/Proposal_Report.pdf)
+- [期末報告](./報告/Final_Report.pdf)
+- [HW1 HackMD 作業紀錄](./報告/HW1_HackMD.md)
+- [HW2 HackMD 作業紀錄](./報告/HW2_HackMD.md)
+- [期末專案程式碼連結](./報告/Final_Project_Link.md)
