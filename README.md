@@ -1,6 +1,5 @@
 # 平行程式設計
-
-本資料夾整理課程中完成的 SIMD、多執行緒、OpenMP、MPI、CUDA 與 OpenCL 作業。部分作業依賴課程提供的 starter code、標頭檔或測試框架，因此不保證可以脫離課程環境直接編譯。
+整理課程中完成的 SIMD、多執行緒、OpenMP、MPI、CUDA 與 OpenCL 作業。
 
 ## 作業總覽
 
